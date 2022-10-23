@@ -1,0 +1,129 @@
+
+/****************************************
+				GENERAL
+****************************************/
+.logo{
+
+	width: 640;
+	/*height: 30%;
+	float:right;
+	border: 1px solid;*/
+	text-align: center;
+}
+
+.img_logo{
+	width: auto;
+}
+
+.text{
+	font-size:45px;
+	font-family: Verdana;
+	font-style: italic;
+	text-align: center;
+}
+
+.text2 {
+	font-size:13px;
+	font-family: Verdana;
+	font-style: italic;
+	text-align: center;
+}
+
+.general{
+	
+	background-color: #7FFFD4;
+}
+
+/************************************
+				INICIO
+************************************/
+
+.encabezado{
+	margin-top: 2%;
+	clear: both;
+	font-size:30px;
+	font-family: Verdana;
+	font-style: italic;
+}
+.funcion{
+	float: left;
+	width: 40%;
+	margin-right: 50px;
+	
+}
+.form{
+	
+	font-size: 20px;
+
+}
+
+/***************************************
+				PAGINA
+***************************************/
+
+.fotologo {
+	height:150px;
+	width:200px;
+	text-align: center;
+}
+
+.fotoperfil {
+	height:150px;
+	width:200px;
+	float: left;
+}
+
+.link {
+	color:black;
+}
+
+
+.opcion {
+	background-color: #7FFFD4;
+	border-right: solid 2px;
+	width: 33%;
+	position:relative;
+	
+	float: left;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+
+
+/*****************************************
+			INVENTARIO
+*****************************************/
+
+.imagen_producto {
+	height: 125px;
+	width: 150px;
+}
+
+
+/********************************************
+			SALDO
+*********************************************/
+
+.saldo {
+	height:150px;
+	width:200px;
+	position:absolute;
+	margin-top: 160px;
+	
+	
+	background-color: #7FFFD4;
+}
+
+.perfil {
+	height:300px;
+	width:200px;
+	background-color: #7FFFD4;
+	float:right;
+
+}
+
+
+.cierre {
+	background-color: #7FFFD4;
+}

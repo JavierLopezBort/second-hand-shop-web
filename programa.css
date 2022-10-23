@@ -1,0 +1,19 @@
+.encabezado{
+	clear: both;
+}
+
+
+.registro{
+	float: left;
+	width: 300px; 
+	border: solid 2px;
+	margin-left: 50px;
+	background-color: red;
+} 
+.inicio{
+	float: left;
+	width: 300px;
+	border: solid 2px;
+	margin-right: 50px;
+	background-color: red;
+}

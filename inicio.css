@@ -1,0 +1,53 @@
+.logo{
+
+	width: 640;
+	/*height: 30%;
+	float:right;
+	border: 1px solid;*/
+	text-align: center;
+}
+
+.img_logo{
+	width: auto;
+}
+
+.text{
+	font-size:45px;
+	font-family: Verdana;
+	font-style: italic;
+	text-align: center;
+}
+
+
+.general{
+	
+	background-color: #7FFFD4;
+}
+.encabezado{
+	margin-top: 2%;
+	clear: both;
+	font-size:30px;
+	font-family: Verdana;
+	font-style: italic;
+}
+.funcion{
+	float: left;
+	width: 40%;
+	margin-right: 50px;
+	
+}
+.form{
+	
+	font-size: 20px;
+
+}
+.caja{
+
+}
+.send{
+
+}
+.registrate{
+
+}
+/****************************************/
